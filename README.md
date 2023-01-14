@@ -17,7 +17,7 @@ My other areas of expertise include AWS - Security | Architecture | DevOps | Dev
 
 Organized, Detailed-oriented, and a Productive Engineer with a GTD mindset (Getting Things Done). Self-taught, Quick-learner, and Social.
 
-🔭 **I’m currently working on my AWS - Security Specialization Certification.**: [AWS - Security](https://aws.amazon.com/certification/certified-security-specialty/).
+🔭 **I’m currently working on my AWS - Security Specialization Certification**: [AWS - Security](https://aws.amazon.com/certification/certified-security-specialty/).
 
 <div align="center">
     <img src="http://4.bp.blogspot.com/-qTS_smgj7Mk/VgBjDLPs-FI/AAAAAAAAUFQ/rjZ9qQUHxY4/s1600/lifting-up-glass.gif" height="100" />
