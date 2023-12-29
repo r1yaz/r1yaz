@@ -2,7 +2,7 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="200" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=Hi+👋+I'm+Riyaz;MS+InfoSec+@+CMU;Looking+for+Summer+2024+Security+Internships;AppSec+and+DevSecOps+Expert;Aspiring+Security+Architect" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hi+👋+I'm+Riyaz;MS+InfoSec+@+CMU;AppSec+and+DevSecOps+Expert;Aspiring+Security+Architect;LF+Summer+2024+Security+Internships" />
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/riyazrafiahmed/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
@@ -21,10 +21,11 @@ Projects of Interest -
 
 1. [WinDED](https://github.com/r1yaz/winDED) - Exploit Development using Python for CVE-2023-38831 (WinRAR)
 2. [V.M.A<sup>2</sup>S](https://github.com/r1yaz/vmA2s) - Fully Automated & Centralized Vulnerability Lifecycle Management Microservice
+3. Private repo - eXploitHub - Custom written exploits for attacks such as bypassing Stack Canaries, NOP Sled, ROP Gadget, Ret-to-libc, ASLR, Padding Oracle, Certificate Auth, XSS, SQL Injection, K8s, Linux Least Privileges, One-time pads, ECB, PGP, Hash extension attacks, SSL, Protocol Analysis, Tor attacks, and Blockchain.
 
 Organized, Detailed-oriented, and a Productive Engineer with a GTD mindset (Getting Things Done). Self-taught, Quick-learner, and Social.
 
-Resume - [Best_Security_Engineer](https://tiny.cc/RiyazResume)
+Resume - [Best_Security_Engineer](https://tiny.cc/RiyazResume) ||| Blog - [Most_Useful_Security_Blog](https://r1yaz.notion.site)
 
 🔭 **I’m currently working on AppSecEngineer course content over at** [AppSecEngineer](https://www.appsecengineer.com).
 
