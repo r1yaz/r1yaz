@@ -2,7 +2,7 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="200" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋+I'm+Riyaz;MS+InfoSec+@+CMU;Ex+Security+Software+Engineer+@+Chargebee;DevSecOps+and+AppSec+Enthusiast;Aspiring+Security+Architect" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=650&height=50&lines=Hi+👋+I'm+Riyaz;MS+InfoSec+@+CMU;Ex+Security+Software+Engineer+@+Chargebee;DevSecOps+and+AppSec+Enthusiast;Aspiring+Security+Architect" />
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/riyazrafiahmed/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
